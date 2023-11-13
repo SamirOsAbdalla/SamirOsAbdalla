@@ -1,4 +1,4 @@
-# ![](./images/tmp.png) Samir Abdalla
+# ![](./images/small.png) Samir Abdalla
 
 **`Web Developer (React/Typescript) and Software Engineer`**
 
