@@ -1,4 +1,5 @@
-<h1 align="center">Hi there, I'm Samir Abdalla</h1>
+<h1 align="center">Hi there, I'm Samir Abdalla <img
+src="https://www.cleanpng.com/png-rayquaza-kyogre-et-groudon-kyogre-et-groudon-sprit-6891395/" height="30" /></h1>
 
 <br />
 
