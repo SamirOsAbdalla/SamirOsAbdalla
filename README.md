@@ -1,4 +1,6 @@
-<h1 align="center">Hi there, I'm Samir Abdalla</h1>
+# Samir Abdalla
+
+**`Web Developer (React/Typescript) and Software Engineer`**
 
 <br />
 
