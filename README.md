@@ -1,4 +1,4 @@
-# Samir Abdalla
+# ![image info](./iamges/rayquaza.png) Samir Abdalla
 
 **`Web Developer (React/Typescript) and Software Engineer`**
 
