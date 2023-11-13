@@ -1,4 +1,4 @@
-# ![](./images/rayquaza.png) Samir Abdalla
+# ![](./images/tmpgif.gif) Samir Abdalla
 
 **`Web Developer (React/Typescript) and Software Engineer`**
 
