@@ -1,4 +1,6 @@
-### Hi there 👋
+<h1 align="center">Hi there, I'm Samir Abdalla</h1>
+
+<br />
 
 <!--
 **SamirOsAbdalla/SamirOsAbdalla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
