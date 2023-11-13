@@ -1,4 +1,4 @@
-<h1 align="left">Samir Abdalla </h1>
+# Samir Abdalla
 
 **`Web Developer (React/Typescript) and Software Engineer`**
 
