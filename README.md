@@ -1,5 +1,7 @@
-<h1 align="center">Samir Abdalla </h1>
-**`Web Developer (React/Typescript)and Software Engineer`**
+<h1 align="left">Samir Abdalla </h1>
+
+**`Web Developer (React/Typescript) and Software Engineer`**
+
 <br />
 
 <!--
