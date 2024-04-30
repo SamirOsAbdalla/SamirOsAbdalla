@@ -3,8 +3,7 @@
 **`Web Developer (React/Typescript) and Software Engineer`**
 
 
-I am a web developer that is constantly trying to learn new programming languages, ideas, etc. Creating software that is fun, helpful and visually appealing is my main goal,
-seeing that my main purpose for being a Software Engineer to is to be useful to others.
+I am a web developer that is constantly trying to learn new programming languages, ideas, etc. Creating software that is fun, helpful and visually appealing is my main goal.
 
 
 ## 🔧 Current Technologies
